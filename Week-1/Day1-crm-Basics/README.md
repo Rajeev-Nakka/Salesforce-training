@@ -1,7 +1,9 @@
 **Salesforce Summer Program – Day 1
 **
+
 **1.What is Crm ?
 **
+
 ->CRM stands for Customer Relationship Management.
 
 ->This technology allows you to manage relationships with your customers and prospects.
@@ -13,6 +15,7 @@
 
 **2.	Why companies use Salesforce
 **   
+
 ->Salesforce is your customer success platform, designed to help you sell, service, market, analyze, and connect with your customers.
 
 ->Salesforce has everything you need to run your business from anywhere.
@@ -22,6 +25,7 @@
 
 **3. Explain: o Account o Contact o Opportunity
 **
+
 ->Account: A company or organization
 
 ->Contact: A person related to the account
@@ -30,7 +34,9 @@
 
 **4.	Your real-world mapping
 ** 
+
  **College Admission Mapping**
+ 
 ->Account = College / University
 
 ->Contact = Student
