@@ -2,7 +2,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## What is Salesforce DX?
+ ##  1) What is Salesforce DX?
 
 Salesforce DX (Developer Experience) is a **modern development approach** that enables:
 
@@ -14,7 +14,7 @@ Salesforce DX (Developer Experience) is a **modern development approach** that e
 
 * Faster deployments
 
-###  Key Benefits:
+##  Key Benefits:
 
 * Work with code instead of only UI
 
@@ -26,7 +26,7 @@ Salesforce DX (Developer Experience) is a **modern development approach** that e
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##  Why CLI Matters
+## 2)  Why CLI Matters
 
 Salesforce CLI allows developers to interact with Salesforce using the terminal.
 
@@ -46,7 +46,7 @@ Salesforce CLI allows developers to interact with Salesforce using the terminal.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##  Why GitHub Matters
+## 3) Why GitHub Matters
 
 GitHub is used for **version control and collaboration**.
 
@@ -86,7 +86,7 @@ GitHub is used for **version control and collaboration**.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-##  Team Collaboration Problems (Without Tools)
+## 4) Team Collaboration Problems (Without Tools)
 
 If 10 developers work on same project without proper workflow:
 
@@ -101,8 +101,6 @@ If 10 developers work on same project without proper workflow:
 * No rollback capability
 
 * Deployment errors
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 --->  Enterprise vs College Coding
 
@@ -133,7 +131,7 @@ If 10 developers work on same project without proper workflow:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## ⚙️ Enterprise Workflow Discussion
+## 5) Enterprise Workflow Discussion
 
 Enterprise systems require:
 
@@ -149,7 +147,7 @@ Enterprise systems require:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##  Reflection
+## 6)  Reflection
 
 After learning Salesforce workflow, I realized:
 
