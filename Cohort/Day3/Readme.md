@@ -149,15 +149,3 @@ Preventing duplicate applications (needs a query across existing records) and cr
 
 ---
 
-## 11. Submission Checklist
-
-- [x] Student Object
-- [x] Job Object
-- [x] Application Object
-- [x] Flow 1 screenshots (Auto Fill Application Date)
-- [x] Flow 2 screenshots (Application Email Notification Flow)
-- [x] Validation Rule formulas
-- [x] Offer Letter object
-- [x] Debug screenshots
-- [x] GitHub repository
-- [x] README file
